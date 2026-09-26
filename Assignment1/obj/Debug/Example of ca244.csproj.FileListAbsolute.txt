@@ -1,0 +1,11 @@
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\bin\Debug\Example of ca244.exe.config
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\bin\Debug\Example of ca244.exe
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\bin\Debug\Example of ca244.pdb
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.csproj.AssemblyReference.cache
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example_of_ca244.Form1.resources
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example_of_ca244.Properties.Resources.resources
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.csproj.GenerateResource.cache
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.csproj.CoreCompileInputs.cache
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.exe
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.pdb
+C:\Users\cxc\source\repos\Example of ca244\Example of ca244\obj\Debug\Example of ca244.exe.config
