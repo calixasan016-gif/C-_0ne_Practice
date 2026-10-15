@@ -24,6 +24,7 @@ namespace Assignment_3
 
         private void btninfo_Click(object sender, EventArgs e)
         {
+            // Creating variables with using try and catch
             try
     {
                 string customerName = txtCustmer.Text;
